@@ -1,0 +1,6 @@
+{
+  "name": "HAULE BACKUP COMMUNITY - Football Prediction & Analysis",
+  "description": "Professional football match analysis, data-driven 75%+ confidence predictions, live fixture settlement, and AI scouting intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
